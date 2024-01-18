@@ -2,7 +2,7 @@
 Development of a Reaper script that is able to post events directly to Wwise via the WAAPI.
 
 Welcome. \
-This repo is password-protected for the time being, mostly to have a sense of who I share this very first version of the script with. Obviously I can't stop you in sharing this script with anyone.
+This repo is private for the time being, mostly to have a sense of who I share this very first version of the script with. Obviously I can't stop you in sharing this script with anyone.
 
 ––––
 
