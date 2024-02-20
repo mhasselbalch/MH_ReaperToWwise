@@ -13,7 +13,7 @@ If you encounter (and you most likely will) any issues, bugs and anything else, 
 You can contact me via the Discord group below or via marchasselbalch[at]gmail[dot].com, but please read the "KNOWN ISSUES" section further down before doing so. 
 
 Discord group for people to report bugs, request features, ask questions and showcase their use of the tool. \
-Link: https://discord.gg/XE4y5Fv7M8 (invite should not expire, but let me know if it does)
+Link: https://discord.gg/DYkfb9YAKB (invite should not expire, but let me know if it does) (UPDATED 20/2/2024)
 
 If you have something to share/report and is not the Discord-using type, you are free to contact me by email. 
 
