@@ -1,9 +1,11 @@
 
-
--- ReaperToWwise
--- by Marc Hasselbalch
--- 2024
--- https://github.com/mhasselbalch/MH_ReaperToWwise
+-- @description ReaperToWwise
+-- @version 1.0
+-- @author Marc Hasselbalch
+-- @about
+--   # ReaperToWWise v1.0 TEST 01
+-- @changelog
+--   Test 01 11102024
 
 versionNumber = "1.0"
 
