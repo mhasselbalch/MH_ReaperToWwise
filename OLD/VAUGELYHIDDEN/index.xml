@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index version="1" name="MH_ReaperToWwise_v1.0_Test_01">
+	<category name="Utility">
+		<reapack name="ReaperToWwise_v1_Test_01" type="Utility">
+			<version name="1.0.0">
+				<source>https://raw.githubusercontent.com/mhasselbalch/MH_ReaperToWwise/refs/heads/main/OLD/VAUGELYHIDDEN/ReaperToWwise_v1_37_forReaPack.lua</source>
+			</version>
+		</reapack>
+	</category>
+</index>
+
+
